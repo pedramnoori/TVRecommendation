@@ -1,0 +1,10 @@
+Button codes regarding Sumsung SUMSUNG IR controller:
+Button Code - on: 0xe0e040bf
+Button Code - 1: 0xe0e020df
+Button Code - 2: 0xe0e0a05f
+Button Code - 3: 0xe0e0609f
+Button Code - 4: 0xe0e010ef
+Button Code - 5: 0xe0e0906f
+Button Code - 6: 0xe0e050af
+Button Code - 7: 0xe0e030cf
+Button Code - 8: 0xe0e0b04f
